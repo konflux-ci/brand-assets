@@ -9,6 +9,8 @@ Brand Assets repository is a place to store Konflux design files, that can be ac
 # Colours 
 ![dark blue](https://github.com/konflux-ci/brand-assets/assets/14108590/8674ac3c-4283-4849-9965-6636f7800b39)
 ![light blue](https://github.com/konflux-ci/brand-assets/assets/14108590/e2bc5812-017e-4a7b-b617-a325f2d3d72e)
+![orange](https://github.com/konflux-ci/brand-assets/assets/14108590/e13da72b-d619-40eb-8075-06e6e6ad1597)
+
 
 
 # usage guidelines
