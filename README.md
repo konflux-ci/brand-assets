@@ -29,5 +29,5 @@ For paragraphs please use [Cambay](https://fonts.google.com/specimen/Cambay)
 
 # usage guidelines
 WIP
-# contact 
-WIP
+# icons
+[link to iconoir library](https://iconoir.com/) 
