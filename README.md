@@ -2,7 +2,7 @@
 ![konflux logo](https://github.com/konflux-ci/brand-assets/assets/14108590/44c9d490-debd-4263-aee4-c7982b76a2e1)
 
 
-# brand-assets
+# Brand Assets
 Brand Assets repository is a place to store Konflux design files, that can be accessed and used by the members of Konflux community. It will include logos, illustrations, icons, fonts, swag, usage guidelines and other visual assets. 
 
 # Colours 
@@ -27,7 +27,20 @@ For paragraphs please use [Cambay](https://fonts.google.com/specimen/Cambay)
 
 
 
-# usage guidelines
-WIP
-# icons
+# Usage Guidelines
+
+When using the logo, please respect the spacing around it, so that it's not too much or too little:
+  
+![image](https://github.com/user-attachments/assets/a6f38a7b-7244-47cc-949b-561967d848d5)
+
+Use the inverted verson on the dark background:  
+
+![image](https://github.com/user-attachments/assets/5497edbb-7268-4fd5-9f91-a6e38321db59)
+
+For smaller print sizes, use the simplified icon:
+
+![image](https://github.com/user-attachments/assets/77b320bb-ec7f-407d-8e82-569fb1cb21eb)
+
+    
+# Icons
 [link to iconoir library](https://iconoir.com/) 
